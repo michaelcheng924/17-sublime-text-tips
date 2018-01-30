@@ -1,11 +1,12 @@
 // 17 Sublime Text tips and shortcuts to save you tons of time
+// GitHub repository: https://github.com/michaelcheng429/17-sublime-text-tips
+
 
 // Preface) Get project started
 
+
 // 1) CMD+CLICK (CTRL+CLICK) --> Multi-cursor
-
 // 2) CMD+D (CTRL+D) --> Select next occurrence
-
 // 3) CMD+K (CTRL+K) --> Skip occurrence
 
 var something = 1;
@@ -51,15 +52,12 @@ var something = [
         key1: 1
     },
     {
-        key2: 2,
-        key3: {
-            key4: 4
-        }
+        key2: 2
     }
 ];
 
 var arr = [
-
+    
 ];
 
 // 14) CMD+BRACKET (CTRL+BRACKET) --> Indent / De-indent
@@ -74,6 +72,6 @@ var lineToSelect = 'line to select';
 
 var message = 'this is a test message that is so long that it extends past just one single line';
 
-// 17) CMD+SHIFT+M (CTRL+SHIFT+M) --> Select entire contents of parentheses, brackets, or braces
+// 17) CTRL+SHIFT+M (CTRL+SHIFT+M) --> Select entire contents of parentheses, brackets, or braces
 
 var arr = ['item1', 'item2']
